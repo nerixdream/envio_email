@@ -1,4 +1,4 @@
-# Eenvío de email
+# Envío de email
 
 ## Segundo proyecto del curso
 
